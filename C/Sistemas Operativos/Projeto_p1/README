@@ -1,0 +1,17 @@
+===================================================================
+Sistemas Operativos 2025/2026 - Trabalho de Projeto (1ª Fase)
+===================================================================
+
+GRUPO 14
+- José Marques (Número 63777)
+- Isaura Cid (Número 63761)
+- Mariana Franco (Número 62355)
+
+LIMITAÇÕES DA IMPLEMENTAÇÃO E NOTAS GERAIS:
+- A Fase 1 foi implementada na sua totalidade e cumpre todos os requisitos exigidos no guião.
+- A alocação e libertação de memória (dinâmica e partilhada) é feita de forma totalmente segura, com tratamento preventivo de erros logo no arranque para evitar falhas de segmentação ou processos zombie.
+- O código foi formatado e testado para o ambiente Linux exigido e compila sem qualquer erro, utilizando o Makefile fornecido.
+
+UTILIZAÇÃO DE INTELIGÊNCIA ARTIFICIAL:
+- O desenvolvimento da lógica estrutural, algoritmia e gestão de processos/memória foi realizado inteiramente pelos elementos do grupo.
+- Ferramentas baseadas em Inteligência Artificial foram utilizadas de forma ética e pontual, apenas como apoio ao estudo e depuração, nomeadamente: Resolução de conflitos de compilação locais entre macOS e Linux (diferenças nativas na biblioteca shm_open / -lrt).
